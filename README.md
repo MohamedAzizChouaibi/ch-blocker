@@ -20,11 +20,10 @@
 
 - Python 3.7+
 - Admin/root privileges (required to edit the hosts file)
-- OS: Windows / Linux / macOS
-
+- OS: Windows / Linux 
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ch-blocker.git
+git clone https://github.com/MohamedAzizChouaibi/ch-blocker
 cd ch-blocker
 pip install -r requirements.txt
